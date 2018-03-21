@@ -24,12 +24,13 @@ Download the zip or clone the repo . Run the code and set the tokens for twitter
 
 ### Installing
 
-#Installing python in ubuntu
+###Installing python in ubuntu
+  
   sudo apt-get update
-
   sudo apt-get install python3.6
 
 #Installing jupyter notebook 
+  
   sudo pip install jupyter
 
 
