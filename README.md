@@ -1,7 +1,4 @@
 # Twitter_Data_mining_example
-
-Here I am showing the data mining using python . I have taken help of book Mining the social Web .
-
 This  kicks off our journey of mining the social web with Twitter, a rich source
 of social data that is a great starting point for social web mining because of its inherent
 openness for public consumption, clean and well-documented API, rich developer
@@ -12,3 +9,30 @@ ciety at an international level, and are so inherently multifaceted. Tweets and 
 “following” mechanism link people in a variety of ways, ranging from short (but often
 meaningful) conversational dialogues to interest graphs that connect people and the
 things that they care about.
+
+
+## Getting Started
+
+Download the zip or clone the repo . Run the code and set the tokens for twitter . 
+
+### Prerequisites
+
+ python 2.7
+ jupyter notebook
+
+
+
+### Installing
+
+#Installing python in ubuntu
+  sudo apt-get update
+
+  sudo apt-get install python3.6
+
+#Installing jupyter notebook 
+  sudo pip install jupyter
+
+
+# Contribution
+Place a pull request for any contribution.
+
