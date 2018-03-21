@@ -1,4 +1,4 @@
-# Twitter_Data_mining_example
+# Twitter_Data_mining
 This  kicks off our journey of mining the social web with Twitter, a rich source
 of social data that is a great starting point for social web mining because of its inherent
 openness for public consumption, clean and well-documented API, rich developer
